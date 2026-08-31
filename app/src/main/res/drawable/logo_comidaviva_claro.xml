@@ -1,0 +1,38 @@
+<!--
+  Marca "Pulso" do ComidaViva — versão para fundos escuros.
+  Tigela em Creme (#FAF6EF) com a seta de crescimento em Âmbar (#F2A33C).
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- Borda superior da tigela -->
+    <path
+        android:pathData="M6,30.5H42"
+        android:strokeColor="#FAF6EF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round" />
+
+    <!-- Corpo da tigela -->
+    <path
+        android:pathData="M10,32h28c0,7.73 -6.27,14 -14,14s-14,-6.27 -14,-14z"
+        android:fillColor="#FAF6EF" />
+
+    <!-- Linha de crescimento -->
+    <path
+        android:pathData="M7.5,21.5h5.4l2.7,4.6L36,8"
+        android:strokeColor="#F2A33C"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Ponta da seta -->
+    <path
+        android:pathData="M29.3,8h6.7v6.7"
+        android:strokeColor="#F2A33C"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

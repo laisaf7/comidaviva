@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none" role="img" aria-label="ComidaViva">
+  <title>ComidaViva — marca monocromática (usa currentColor)</title>
+  <path d="M6 30.5H42" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+  <path d="M10 32h28c0 7.73-6.27 14-14 14s-14-6.27-14-14z" fill="currentColor"/>
+  <path d="M7.5 21.5h5.4l2.7 4.6L36 8" stroke="currentColor" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.55"/>
+  <path d="M29.3 8h6.7v6.7" stroke="currentColor" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.55"/>
+</svg>

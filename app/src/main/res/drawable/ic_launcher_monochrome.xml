@@ -1,0 +1,44 @@
+<!--
+  Camada monocromática do ícone adaptativo (Material You, Android 13+).
+  O sistema aplica a própria cor, então a arte usa um tom único; a seta fica
+  com opacidade reduzida para preservar a leitura das duas formas.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <group
+        android:translateX="20.25"
+        android:translateY="20.25"
+        android:scaleX="1.40625"
+        android:scaleY="1.40625">
+
+        <path
+            android:pathData="M6,30.5H42"
+            android:strokeColor="#000000"
+            android:strokeWidth="3"
+            android:strokeLineCap="round" />
+
+        <path
+            android:pathData="M10,32h28c0,7.73 -6.27,14 -14,14s-14,-6.27 -14,-14z"
+            android:fillColor="#000000" />
+
+        <path
+            android:pathData="M7.5,21.5h5.4l2.7,4.6L36,8"
+            android:strokeColor="#000000"
+            android:strokeAlpha="0.55"
+            android:strokeWidth="3.2"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+
+        <path
+            android:pathData="M29.3,8h6.7v6.7"
+            android:strokeColor="#000000"
+            android:strokeAlpha="0.55"
+            android:strokeWidth="3.2"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+    </group>
+</vector>

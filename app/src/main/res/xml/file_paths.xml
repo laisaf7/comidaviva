@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Caminhos que o FileProvider pode expor a outros aplicativos.
+  Apenas a pasta de relatórios dentro do cache do app é compartilhável — é ali
+  que o RelatorioPdfService grava os PDFs gerados.
+-->
+<paths>
+    <cache-path
+        name="relatorios"
+        path="relatorios/" />
+</paths>

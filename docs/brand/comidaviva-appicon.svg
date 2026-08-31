@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" fill="none">
+  <title>ComidaViva — ícone de aplicativo 1024</title>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0.35" y2="1">
+    <stop offset="0" stop-color="#5C2447"/><stop offset="1" stop-color="#2A0E1F"/></linearGradient></defs>
+  <rect width="1024" height="1024" fill="url(#bg)"/>
+  <g transform="translate(192 192) scale(13.333)">
+    <path d="M6 30.5H42" stroke="#FAF6EF" stroke-width="3" stroke-linecap="round"/>
+    <path d="M10 32h28c0 7.73-6.27 14-14 14s-14-6.27-14-14z" fill="#FAF6EF"/>
+    <path d="M7.5 21.5h5.4l2.7 4.6L36 8" stroke="#F2A33C" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M29.3 8h6.7v6.7" stroke="#F2A33C" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
